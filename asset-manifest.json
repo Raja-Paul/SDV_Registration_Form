@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SDV_Registration_Form/static/css/main.0d4ad5c2.css",
+    "main.css": "/SDV_Registration_Form/static/css/main.31aa6344.css",
     "main.js": "/SDV_Registration_Form/static/js/main.f600393b.js",
     "static/js/787.b04890fa.chunk.js": "/SDV_Registration_Form/static/js/787.b04890fa.chunk.js",
     "index.html": "/SDV_Registration_Form/index.html",
-    "main.0d4ad5c2.css.map": "/SDV_Registration_Form/static/css/main.0d4ad5c2.css.map",
+    "main.31aa6344.css.map": "/SDV_Registration_Form/static/css/main.31aa6344.css.map",
     "main.f600393b.js.map": "/SDV_Registration_Form/static/js/main.f600393b.js.map",
     "787.b04890fa.chunk.js.map": "/SDV_Registration_Form/static/js/787.b04890fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d4ad5c2.css",
+    "static/css/main.31aa6344.css",
     "static/js/main.f600393b.js"
   ]
 }
