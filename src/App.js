@@ -78,7 +78,7 @@ const App = () => {
     placeholder: "Payment proof",
     errorMessage:
       "It is required!",
-    label: "Payment proof (UPI ID : 9382432159@paytm )",
+    label: "Payment proof (UPI ID : 9382432159@paytm ) : QR Code is given below !",
     required: true,
     },
   ];
@@ -104,7 +104,13 @@ const App = () => {
             onChange={onChange}
           /> 
         ))}
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png"
+        alt="QR Code for Payment" height={200} width={200} />
+
         <button>Submit</button>
+      
+      <br />
       </form>
     </div>
   );
