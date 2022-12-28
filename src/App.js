@@ -106,7 +106,7 @@ const App = () => {
         ))}
         
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png"
-        alt="QR Code for Payment" height={200} width={200} />
+        alt="QR Code for Payment" />
 
         <button>Submit</button>
       
